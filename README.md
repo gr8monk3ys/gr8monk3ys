@@ -2,7 +2,7 @@
 
 ## I'm a student at UC Merced, and research assistant!!
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on optimization of python code
 - 🌱 I’m currently learning Pytorch
 - 👯 I’m looking to collaborate on more open source ML projects
 - 📫 How to reach me: lorenzosca7@gmail.com
