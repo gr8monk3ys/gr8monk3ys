@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gr8monk3ys)](https://github.com/anuraghazra/github-readme-stats)
+[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gr8monk3ys&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
