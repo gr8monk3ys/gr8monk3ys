@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on more open source ML projects
 - 📫 How to reach me: lorenzosca7@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I can play 5 instruments guitar / ukulele / mandolin / piano
+- ⚡ Fun fact: I can play 4 instruments guitar / ukulele / mandolin / piano
 
 <br />
 
