@@ -34,6 +34,8 @@
 
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gr8monk3ys&theme=onedark)](https://github.com/gr8monk3ys/github-profile-trophy)
+
 [![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gr8monk3ys&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/gr8monk3ys
