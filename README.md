@@ -1,13 +1,6 @@
 ### Hi there, I'm Lorenzo - aka [gr8monk3ys] 👋
 
-## I'm a student at UC Merced, and research assistant!!
-
-- 🔭 I’m currently working on optimization of python code
-- 🌱 I’m currently learning Pytorch
-- 👯 I’m looking to collaborate on more open source ML projects
-- 📫 How to reach me: lorenzosca7@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I can play 4 instruments guitar / ukulele / mandolin / piano
+## I'm a USC student, and recent UC Merced graduate
 
 <br />
 
