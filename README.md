@@ -1,44 +1,43 @@
-### Hi there, I'm Lorenzo - aka [gr8monk3ys] 👋
+# Hi there, I'm Lorenzo, better known as [gr8monk3ys] 👋
 
-## I'm a USC student, and recent UC Merced graduate
+I'm currently enrolled at the University of Southern California (USC), continuing my academic journey after earning my bachelor's degree from the University of California, Merced. Inquisitive and ambitious, I am always ready to learn something new and face fresh challenges.
 
-<br />
+## 🛠️ Languages and Tools I Use
 
-### Languages and Tools
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I utilize a variety of languages and tools to drive my projects and help solve real-world problems:
 
-<br />
+- Docker
+- Flask
+- TypeScript
+- Mojo
+- Pinecone
+- Python
+- Next.js
+- Pytorch
 
-### Spotify Playing 🎧
+## 🎵 What I'm Jamming To
+
+I love listening to music while I code. Check out what I'm currently playing on Spotify:
 
 [![Spotify](https://novatorem-gr8monk3ys.vercel.app/api/spotify)](https://open.spotify.com/user/gr8monk3ys)
 
-### Connect with me:
+## 🤝 Let's Connect
+
+I'm always open to meeting new people, collaboration, or simply catching up. Feel free to reach out to me on:
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 
+## 🏆 My Achievements
 
-<br />
+Here are some of my recent GitHub achievements:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gr8monk3ys&theme=onedark)](https://github.com/gr8monk3ys/github-profile-trophy)
+
+## 📊 GitHub Stats
+
+And here's a snapshot of my GitHub stats:
 
 [![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gr8monk3ys&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
