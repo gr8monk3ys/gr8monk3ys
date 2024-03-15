@@ -1,4 +1,4 @@
-# Hi there, I'm Lorenzo, better known as [gr8monk3ys] 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Lorenzo)](https://git.io/typing-svg)
 
 I'm currently enrolled at the University of Southern California (USC), continuing my academic journey after earning my bachelor's degree from the University of California, Merced. Inquisitive and ambitious, I am always ready to learn something new and face fresh challenges.
 
