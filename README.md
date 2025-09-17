@@ -3,10 +3,10 @@
 </h1>
 
 <!-- Title Section -->
-  <strong>`AI enthusiast (Developer/Programmer)`</strong>
+  <strong>`Just another person learning every day`</strong>
 <!-- Description Section -->
 <p align="left">
-  Inquisitive and ambitious, I am always ready to learn something new and face fresh challenges.
+  If you want to be virtuous, do so. Make the necessary impact to help your family, friends, and community. Let us all find the middle ground for the betterment of all contrary to just some.
 </p>
 
 <!-- Social Links Section -->
@@ -27,9 +27,21 @@
 [![Lorenzo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gr8monk3ys&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠️ Languages and Tools I Use
+All of the following have been tools that I either currently use such as my environment, or tools that I have used previously:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+  Environment <br/>
+  <img src="https://skillicons.dev/icons?i=arch,bash,neovim" />  <br/>
+  🖥️ Languages <br/>
+  <img src="https://skillicons.dev/icons?i=python,rust,r,go,typescript" /> <br/>
+  🗄️ Databases & Cloud <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,gcp,aws" /> <br/>
+  📦 DevOps & CI/CD <br/>
+  <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,git" /> <br/>
+  ⚙️ Web Framework Stack <br/>
+  <img src="https://skillicons.dev/icons?i=bun,nextjs,tailwind" /> <br/>
+  🎨 Design & Prototyping <br/>
+  <img src="https://skillicons.dev/icons?i=figma,notion,codepen" />  <br/>
+  </div>
 </div>
 
 ## 📊 GitHub Stats
