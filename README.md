@@ -37,30 +37,9 @@
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/gr8monk3ys/blog-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gr8monk3ys&repo=blog-AI&theme=vue&hide_border=true#gh-light-mode-only" alt="blog-AI" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gr8monk3ys&repo=blog-AI&theme=nightowl&hide_border=true#gh-dark-mode-only" alt="blog-AI" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/gr8monk3ys/homelab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gr8monk3ys&repo=homelab&theme=vue&hide_border=true#gh-light-mode-only" alt="homelab" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gr8monk3ys&repo=homelab&theme=nightowl&hide_border=true#gh-dark-mode-only" alt="homelab" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/gr8monk3ys/TAlker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gr8monk3ys&repo=TAlker&theme=vue&hide_border=true#gh-light-mode-only" alt="TAlker" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gr8monk3ys&repo=TAlker&theme=nightowl&hide_border=true#gh-dark-mode-only" alt="TAlker" />
-      </a>
-    </td>
-  </tr>
-</table>
+- **[blog-AI](https://github.com/gr8monk3ys/blog-AI)** — AI content generation tool for writers to automatically create blog posts and books
+- **[homelab](https://github.com/gr8monk3ys/homelab)** — Production-ready Kubernetes homelab with 50+ self-hosted services and GitOps
+- **[TAlker](https://github.com/gr8monk3ys/TAlker)** — AI-powered teaching assistant using LangChain and FAISS
 
 ## ✍️ Thoughts I Wrote Down Before Forgetting
 
