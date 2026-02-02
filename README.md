@@ -27,6 +27,14 @@
   </a>
 </p>
 
+## ⚡ Currently...
+
+🔨 **Building:** Expanding my [homelab](https://github.com/gr8monk3ys/homelab) with 50+ self-hosted services & cooking up RAG experiments on [HuggingFace](https://huggingface.co/gr8monk3ys)
+
+🧠 **Exploring:** Local LLMs — because why trust the cloud when you have a perfectly good GPU at home?
+
+📚 **Reading:** *Siddhartha* by Hermann Hesse — still waiting for enlightenment to hit after chapter 3
+
 ## Contributions
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
