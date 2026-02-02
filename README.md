@@ -58,6 +58,11 @@
   </a>
 </p>
 
+## ✍️ Thoughts I Wrote Down Before Forgetting
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Contributions
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
