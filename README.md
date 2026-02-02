@@ -109,4 +109,8 @@ Things I work with daily (or tools I've touched at least once):
 
 <br />
 
+---
 
+<p align="center">
+  <em>"The only way to do great work is to love what you do — and commit frequently."</em>
+</p>
