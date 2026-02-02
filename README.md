@@ -63,15 +63,15 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Contributions
+## 🐍 Watch the Snake Eat My Contributions
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
 [![Lorenzo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gr8monk3ys&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🛠️ Languages and Tools I Use
-All of the following have been tools that I either currently use such as my environment, or tools that I have used previously:
+## 🛠️ Tools of the Trade
+Things I work with daily (or tools I've touched at least once):
 <div align="center">
   Environment <br/>
   <img src="https://skillicons.dev/icons?i=arch,bash,neovim" />  <br/>
@@ -88,7 +88,7 @@ All of the following have been tools that I either currently use such as my envi
   </div>
 </div>
 
-## 📊 GitHub Stats
+## 📊 Stats (Because Numbers Validate Existence)
 <p align="left">
   <!-- Most Used Languages -->
   <a href="https://github.com/gr8monk3ys#gh-light-mode-only" target="_blank">
