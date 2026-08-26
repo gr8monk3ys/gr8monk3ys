@@ -4,6 +4,9 @@ on:
     - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README with latest blog posts
