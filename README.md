@@ -7,7 +7,7 @@ AI tooling, run a K3s homelab, and write at [lscaturchio.xyz](https://lscaturchi
 
 - **[blog-AI](https://github.com/gr8monk3ys/blog-AI)** — AI content generation for writers: drafts blog posts and books from an outline.
 - **[grasping-straws](https://github.com/gr8monk3ys/grasping-straws)** — an Oblique Strategies–style card deck as a static Astro site with zero framework JavaScript. Live at [straws.lscaturchio.xyz](https://straws.lscaturchio.xyz).
-- **[cocoon](https://github.com/gr8monk3ys/cocoon)** — privacy-first browsing support for neurodivergent and mental-health needs. Live at [cocoon.lscaturchio.xyz](https://cocoon.lscaturchio.xyz).
+- **[cocoon](https://github.com/gr8monk3ys/cocoon)** — privacy-first browsing support for neurodivergent and mental-health needs.
 - **[remedi](https://github.com/gr8monk3ys/remedi)** — looks up natural alternatives to a given drug or supplement.
 - **[homelab](https://github.com/gr8monk3ys/homelab)** — GitOps manifests for a K3s cluster running about two dozen self-hosted apps, with SOPS-encrypted secrets.
 - **[resume-AI](https://github.com/gr8monk3ys/resume-AI)** — rewrites a resume against a job description.
