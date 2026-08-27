@@ -46,7 +46,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Rational Actor Is Dead](https://lscaturchio.xyz/blog/rational-actor-myth)
 - [Silicon Valley&#39;s Death Problem](https://lscaturchio.xyz/blog/death-denial-silicon-valley)
-- [Boredom Is a Skill](https://lscaturchio.xyz/blog/boredom-is-a-skill)
+- [Boredom Is a Skill &lpar;The Attention Economy #4&rpar;](https://lscaturchio.xyz/blog/boredom-is-a-skill)
 - [Nihilism Is Lazy Philosophy](https://lscaturchio.xyz/blog/nihilism-is-lazy)
 - [The Meditation Industrial Complex](https://lscaturchio.xyz/blog/meditation-industrial-complex)
 <!-- BLOG-POST-LIST:END -->
