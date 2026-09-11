@@ -15,11 +15,11 @@ AI tooling, run a K3s homelab, and write at [lscaturchio.xyz](https://lscaturchi
 ## Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Audit Only Checks What It Can Reach](https://lscaturchio.xyz/blog/audit-only-checks-what-it-reaches)
 - [The Rational Actor Is Dead](https://lscaturchio.xyz/blog/rational-actor-myth)
 - [Silicon Valley&#39;s Death Problem](https://lscaturchio.xyz/blog/death-denial-silicon-valley)
 - [Boredom Is a Skill &lpar;The Attention Economy #4&rpar;](https://lscaturchio.xyz/blog/boredom-is-a-skill)
 - [Nihilism Is Lazy Philosophy](https://lscaturchio.xyz/blog/nihilism-is-lazy)
-- [The Meditation Industrial Complex](https://lscaturchio.xyz/blog/meditation-industrial-complex)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools
