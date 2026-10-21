@@ -1,16 +1,22 @@
 # Lorenzo Scaturchio
 
-Developer in Southern California. I build small, self-contained web apps and
-AI tooling, run a K3s homelab, and write at [lscaturchio.xyz](https://lscaturchio.xyz).
+Developer in Southern California, heading toward solutions engineering: the
+customer-facing side of technical work, where APIs, data and a clear account of
+what a system really does matter as much as the code. I build small,
+self-contained web apps and AI tooling, run a K3s homelab, and write at
+[lscaturchio.xyz](https://lscaturchio.xyz).
 
 ## Projects
 
-- **[spotify](https://github.com/gr8monk3ys/spotify)** — CLI + FastAPI service for Spotify playlists: dedupes, syncs, archives Discover Weekly on a schedule, and sequences tracks by tempo and Camelot key using Deezer/AcousticBrainz data since Spotify withdrew its audio-features endpoint.
-- **[grasping-straws](https://github.com/gr8monk3ys/grasping-straws)** — an Oblique Strategies–style card deck as a static Astro site: ~6 KB gzipped of inlined JS, a WebGL paper shader, zero framework runtime. Live at [straws.lscaturchio.xyz](https://straws.lscaturchio.xyz).
-- **[remedi](https://github.com/gr8monk3ys/remedi)** — looks up natural alternatives to a drug or supplement via OpenFDA, with a database-first cache and fuzzy search. Live at [remedi-iota.vercel.app](https://remedi-iota.vercel.app).
-- **[find-my-doggo](https://github.com/gr8monk3ys/find-my-doggo)** — lost-and-found dog noticeboard in Next.js: post a photo and location, browse on a map, message the poster without their email being published. Rebuilt from a 2019 HackMerced project.
-- **[trading-bot](https://github.com/gr8monk3ys/trading-bot)** — async Python trading research on Alpaca: momentum and mean-reversion strategies, a regime-switching coordinator, backtests with slippage, paper trading only. No proven edge, and the README says so.
-- **[ui](https://github.com/gr8monk3ys/ui)** — the lscaturchio.xyz visual identity packaged as a shadcn registry, so `npx shadcn add https://ui.lscaturchio.xyz/r/theme.json` drops the tokens and fonts into any app.
+- **[merge-gate](https://github.com/gr8monk3ys/merge-gate)** — auto-merges bot PRs across a fleet of ~60 repos only when a computation proves the diff safe: shape from the changed paths, version deltas from the PR body, required checks green at the exact commit that gets merged. It exists because of a real incident: an earlier agent judged "eligible" PRs by eye, armed a 197-file diff to land unreviewed, and let a major version merge 130 seconds after it was force-pushed into a PR judged as a minor. Every rule is the fix for a failure like that, and `DECISIONS.md` tells each story.
+- **[backtest-audit](https://github.com/gr8monk3ys/backtest-audit)** — reads a trade log from any framework and flags the defects that silently inflate a backtest: a strategy that can't see its own positions, exits that never fire, shorts never covered, costs never modelled, too few trades to mean anything. Exits non-zero on blocking findings and ships as a GitHub Action. Its checks come from real bugs found in trading-bot.
+- **[blog-AI](https://github.com/gr8monk3ys/blog-AI)** — generates blog posts and books in a trained brand voice as a pipeline of small LLM calls: cited web research, outline, per-section drafting, then optional SEO and claim-by-claim fact-check passes, with OpenAI, Anthropic and Gemini behind one interface. Next.js + FastAPI, 57 stars. Live at [blog-ai.vivancedata.com](https://blog-ai.vivancedata.com).
+- **[link-flame](https://github.com/gr8monk3ys/link-flame)** — eco-friendly storefront and blog in Next.js with Stripe checkout and webhooks, Prisma on Neon, and a per-product yearly impact figure. Its defining change was a scope cut: removing a multi-tenant SaaS layer no shopper ever used took out 7 database models and 10 API routes. Live at [link-flame-rouge.vercel.app](https://link-flame-rouge.vercel.app).
+- **[spotify](https://github.com/gr8monk3ys/spotify)** — CLI and MCP server that turned 3,001 liked songs into 221 genre playlists, sequenced by key and tempo from Deezer/AcousticBrainz data since Spotify withdrew its audio-features endpoint. Its 600 tests run against an in-memory fake of the Spotify Web API, so the real client code is exercised end to end with no network.
+- **[lscaturchio.xyz](https://github.com/gr8monk3ys/lscaturchio.xyz)** — my site: 83 essays, a portfolio, and a chat box that answers from the essays. Next.js on Vercel and Neon Postgres; every public write endpoint runs the same rate limit, CSRF, validation and sanitising chain.
+- **[trading-bot](https://github.com/gr8monk3ys/trading-bot)** — async Python trading research on Alpaca, built to answer whether a retail momentum system can beat the market. It can't: over 2020–2024 the best validated strategy returned +16.3% against SPY's +95.3%. Most of the work went into making that number honest, and the README leads with it. Paper trading only.
+
+Also: [grasping-straws](https://github.com/gr8monk3ys/grasping-straws), an Oblique Strategies–style card deck as a static Astro site with ~6 KB of JS, and [find-my-doggo](https://github.com/gr8monk3ys/find-my-doggo), a lost-and-found dog noticeboard rebuilt from a 2019 HackMerced project.
 
 ## Latest posts
 
