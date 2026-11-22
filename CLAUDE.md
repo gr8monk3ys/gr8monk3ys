@@ -13,3 +13,7 @@ The five canonical roles, label string equal to role name. See `docs/agents/tria
 ### Domain docs
 
 Single-context: `GLOSSARY.md` + `docs/adr/` at the repo root. See `docs/agents/domain.md`.
+
+## Checks
+
+There is no code, so no test suite or build. `make check` validates the one machine-edited contract: the workflow YAML parses and the README still has both `BLOG-POST-LIST` markers.
